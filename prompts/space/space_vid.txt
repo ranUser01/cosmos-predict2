@@ -1,0 +1,8 @@
+The camera maintains the rover’s first-person perspective, showing its robotic arm moving methodically toward the target rock. \
+Hydraulic joints pivot smoothly, causing the drill head to descend with precise, mechanical steadiness. \
+As the drill contacts the rock, tiny particles of reddish dust scatter and drift outward in slow motion under the planet’s weaker gravity. \
+The arm retracts slightly, rotates, and positions a sample container beneath the drilled fragment. \
+Grains of soil slide and settle in delicate arcs, following realistic Martian physics. \
+In the background, the landscape remains motionless except for a faint dust haze that occasionally curls along the surface, hinting at a gentle breeze. \
+Sunlight glints intermittently off the rover’s metallic components as the sequence progresses, each movement crisp and deliberate, capturing the meticulous \
+process of extraterrestrial sample collection.

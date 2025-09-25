@@ -1,0 +1,9 @@
+A first-person view from the perspective of a Mars rover’s primary camera, positioned just above its robotic arm. \
+The foreground shows the rover’s titanium-alloy sampling arm extending toward a jagged, rust-red rock partially embedded in the dusty regolith. \
+Fine grains of iron-oxide soil scatter across the ground, their reddish hue contrasting with darker basalt fragments. \
+The arm’s end effector, a precision drill and scoop mechanism with visible joints, hovers centimeters above the rock surface, \
+ each metallic segment reflecting the muted, copper-tinted sunlight that filters through the thin Martian atmosphere.\ 
+Beyond the arm, the barren landscape stretches to the horizon with low, wind-carved ridges and scattered boulders.\ 
+Faint tire tracks curve away behind the rover, imprinting the dusty soil.\
+The sky is a hazy butterscotch color, diffusing the distant sun into a soft disk.\
+All elements—rock texture, fine dust, mechanical details—are rendered with sharp, photorealistic accuracy, as though seen through the rover’s own lens.\

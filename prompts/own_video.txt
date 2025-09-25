@@ -1,0 +1,6 @@
+Generate a high-definition video from the first-person perspective of a humanoid robot cooking in a modern kitchen. \
+The camera angle shows what the robot sees: its robotic hands holding a stainless-steel pan over a stovetop, stirring sizzling food. \
+Steam rises from the pan, and reflections of warm ambient kitchen lights shimmer on the metallic surfaces of the robot’s arms. \
+The background includes a contemporary kitchen environment with utensils, ingredients, and digital timers, all partially visible from the robot’s viewpoint. \
+The video should capture dynamic movements as the robot adjusts the stove controls and stirs the food, with realistic steam, sizzling effects, and texture development in the dish. \
+Maintain cinematic lighting, with soft glows highlighting the robot’s hands and the food, emphasizing the immersive first-person cooking experience.
